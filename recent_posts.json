@@ -1,0 +1,27 @@
+[
+  {
+    "reporter": "Jane Doe",
+    "text": "Huge pothole just opened up on Main Street near the library entrance! Nearly lost a tire.",
+    "link": "https://facebook.com/groups/yourgroup/posts/12345"
+  },
+  {
+    "reporter": "John Smith",
+    "text": "Anyone else notice how bad Elm Street is getting? It's a minefield.",
+    "link": "https://facebook.com/groups/yourgroup/posts/12346"
+  },
+  {
+    "reporter": "Alice Green",
+    "text": "Just wanted to share a picture of my cat. Isn't he cute?",
+    "link": "https://facebook.com/groups/yourgroup/posts/12347"
+  },
+  {
+    "reporter": "Bob White",
+    "text": "Watch out for the crater at the corner of Oak and Pine Ave. City needs to fix this ASAP.",
+    "link": "https://facebook.com/groups/yourgroup/posts/12348"
+  },
+  {
+    "reporter": "Chris P. Bacon",
+    "text": "There's a really bad dip on Route 6 near the ESPN entrance in Bristol. Be careful!",
+    "link": "https://facebook.com/groups/yourgroup/posts/12349"
+  }
+]
